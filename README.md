@@ -12,7 +12,7 @@ Alkemy Library consiste en una API de gestión de datos que permite a sus usuari
   - **Préstamos de Libros:**
       - Posibilidad de solicitar préstamos de libros.
   - **Chat:**
-      - Acceso al chat para intercambiar opiniones y .
+      - Acceso al chat para intercambiar opiniones.
   - **Reseñas:**
       - Generar reseñas de libros, colocar puntaje y obtener recomendaciones
   - **Participación en Eventos:**
